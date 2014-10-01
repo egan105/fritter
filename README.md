@@ -1,3 +1,3 @@
 Fritter
 ==================
-URL: http://fritter-app-ericgan.rhcloud.com/
+URL: http://fritter-ericgan.rhcloud.com/
